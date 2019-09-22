@@ -4,6 +4,7 @@
 #   "Amanda" => 27
 # }
 
+# hash of birthday kids and wishes them a happy birthday
 def happy_birthday(birthday_kids)
   
 end
